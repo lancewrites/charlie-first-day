@@ -11,3 +11,9 @@
 - repo (repository): named folder in GitHub
 - clone: taking a repo from the remote and putting a copy of it on local
 - push and pull: moving code on a branch between local and remote
+
+### Git Workflow
+- informational commands: ls, pwd, git status
+- git add <file-name>
+- git commit -m "a descriptive message about changes"
+- git push origin <branch-name>
